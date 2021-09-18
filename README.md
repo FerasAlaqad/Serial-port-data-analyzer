@@ -7,7 +7,7 @@
 ![image](https://user-images.githubusercontent.com/87244886/133885568-94b888c9-2a7e-4214-8a60-52a43d8afb8a.png)
 
 I created a LabVIEW program that can analyze the data coming from 
-serial ports. the program can work with 20 different data or less, the data coming from the serial port should be as a package, the separator between data can be chosen by the user.
+serial ports. the program can work with 20 different data or less, the data coming from the serial port should be as a package, the separator between data can be chosen by user.
 
 Analyzed data will be displayed in a table and at the same time, it will be saved to the computer as a txt file.
 
